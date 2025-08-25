@@ -16,13 +16,13 @@ Em 2025, demos início a um novo ciclo com a chegada de **Maria Eduarda** e **Ca
 Em 2024, com a entrada do @Lucas Gabriel no desenvolvimento do back-end e na implementação de um modelo avançado de **Visão Computacional**, nossa equipe conquistou o **2º lugar** na competição. A proposta envolveu a criação de um sistema inteligente capaz de realizar tarefas de identificação e classificação de produtos de maneira autônoma, utilizando a mais recente tecnologia em IA. A combinação de front-end, back-end e visão computacional gerou resultados impressionantes, e o reconhecimento que recebemos foi fruto de muito trabalho e dedicação de todos os membros da equipe. Além da incrivel estrutura do nosso braço robótico e do robô no geral.
 
 ### 2023: **Melhorias para a ShelBox**  
-Em 2023, o desafio foi trazer melhorias para a **ShelBox**, uma empresa focada em soluções para o mercado de e-commerce. Nossa equipe, onde @Isabella Dias, foi responsável pelo desenvolvimento de toda a interface do front-end, criando uma experiência de usuário moderna e eficiente. O trabalho foi um sucesso, com a ShelBox destacando-se pela inovação implementada, refletindo o nosso compromisso em entregar soluções de alta qualidade.
+Em 2023, o desafio foi trazer melhorias para a **ShelBox**, uma empresa focada em soluções para o mercado de e-commerce. Nossa equipe, onde @Isabella Diaz, foi responsável pelo desenvolvimento de toda a interface do front-end, criando uma experiência de usuário moderna e eficiente. O trabalho foi um sucesso, com a ShelBox destacando-se pela inovação implementada, refletindo o nosso compromisso em entregar soluções de alta qualidade.
 
 ## 🎓 Nossa Missão  
 A SKYER FIAP visa promover a **inovação**, a **colaboração** e o **desenvolvimento de soluções tecnológicas** que atendam às demandas de empresas reais. Estamos constantemente em busca de aprimorar nossas habilidades técnicas e colaborativas para impactar positivamente o futuro do mercado de tecnologia.
 
 ## 🌟 Nossa Equipe  
-- **Isabella Dias** – Hardware Engineer
+- **Isabella Diaz** – Hardware Engineer
 - **Lucas Gabriel** – Back-End Development & Vision Computing  
 - **Maria Silva** – Front-End Development
 - **Caio Souza** – Undefined  
