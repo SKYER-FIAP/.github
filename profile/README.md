@@ -1,37 +1,84 @@
 # SKYER FIAP 🚀  
 **Skyer FIAP** é uma organização acadêmica dedicada ao desenvolvimento de soluções inovadoras para desafios reais do mercado, promovendo a integração entre tecnologia, criatividade e trabalho em equipe. Através de competições anuais com empresas parceiras, buscamos aplicar nossos conhecimentos em Engenharia de Computação para gerar resultados significativos.
 
-## 🚀 Quem Somos
+---
+
+# 🚀 Quem Somos
 
 Somos um grupo de estudantes de Engenharia da Computação da FIAP que acredita no poder da tecnologia para transformar o mundo. Atuamos em projetos desafiadores, com foco em resolver problemas reais de empresas por meio de soluções criativas e eficientes.
 
-Desde 2023, participamos ativamente das competições internas da FIAP, que ocorrem em parceria com empresas do mercado. Nessas competições, somos desafiados a criar soluções tecnológicas inovadoras para problemas reais apresentados por essas empresas.
-
-## 📅 Projetos Destacados
-
-### 2025: **Kickoff Marcado** 🚀  
-Em 2025, demos início a um novo ciclo com a chegada de **Maria Eduarda** e **Caio Souza** à equipe. Juntos, estamos prontos para encarar mais um grande desafio, que ainda está em sua fase inicial de desenvolvimento!
-
-### 2024: **2º Lugar na Competição com Visão Computacional**  
-Em 2024, com a entrada do @Lucas Gabriel no desenvolvimento do back-end e na implementação de um modelo avançado de **Visão Computacional**, nossa equipe conquistou o **2º lugar** na competição. A proposta envolveu a criação de um sistema inteligente capaz de realizar tarefas de identificação e classificação de produtos de maneira autônoma, utilizando a mais recente tecnologia em IA. A combinação de front-end, back-end e visão computacional gerou resultados impressionantes, e o reconhecimento que recebemos foi fruto de muito trabalho e dedicação de todos os membros da equipe. Além da incrivel estrutura do nosso braço robótico e do robô no geral.
-
-### 2023: **Melhorias para a ShelBox**  
-Em 2023, o desafio foi trazer melhorias para a **ShelBox**, uma empresa focada em soluções para o mercado de e-commerce. Nossa equipe, onde @Isabella Diaz, foi responsável pelo desenvolvimento de toda a interface do front-end, criando uma experiência de usuário moderna e eficiente. O trabalho foi um sucesso, com a ShelBox destacando-se pela inovação implementada, refletindo o nosso compromisso em entregar soluções de alta qualidade.
-
-## 🎓 Nossa Missão  
-A SKYER FIAP visa promover a **inovação**, a **colaboração** e o **desenvolvimento de soluções tecnológicas** que atendam às demandas de empresas reais. Estamos constantemente em busca de aprimorar nossas habilidades técnicas e colaborativas para impactar positivamente o futuro do mercado de tecnologia.
-
-## 🌟 Nossa Equipe  
-- **Isabella Diaz** – Hardware Engineer
-- **Lucas Gabriel** – Back-End Development & Vision Computing  
-- **Maria Silva** – Front-End Development
-- **Caio Souza** – Undefined  
-- **Eduarda Goda** – Undefined 
-
-## 💡 Nosso Propósito
-Levar inovação a sério. Testar nossos limites. Trabalhar como um time. E acima de tudo, usar a tecnologia como ponte para o futuro.
+Desde 2023, participamos ativamente das competições internas da FIAP, realizadas em parceria com grandes empresas do mercado. Nessas competições, somos desafiados a desenvolver soluções tecnológicas inovadoras para problemas reais, unindo software, hardware, inteligência artificial e automação.
 
 ---
 
-✨ **Siga nossos projetos e acompanhe nossa jornada rumo à inovação!**
+# 📅 Projetos Destacados
 
+## 2026: **Digital Twin para Operações Industriais e Portuárias** ⚙️🌐
+
+Em 2026, iniciamos um novo desafio focado no desenvolvimento de um ecossistema inteligente baseado em **Digital Twin**, integrando monitoramento em tempo real, automação e análise de dados para operações industriais e portuárias.
+
+O projeto envolve tecnologias como:
+- Visão Computacional
+- IoT e sensores industriais
+- APIs para transmissão de vídeo em tempo real
+- Inteligência Artificial
+- Dashboards operacionais
+- Integração entre hardware e software
+
+Neste ciclo, tivemos a entrada de **Pedro Lopes** e **Felipe Assis**, que passaram a contribuir diretamente no desenvolvimento da arquitetura do sistema, hardware e integração técnica do projeto, fortalecendo ainda mais a equipe para os novos desafios.
+
+---
+
+## 2025: **3º Lugar com Projeto de Digital Twin** 🥉
+
+Em 2025, a SKYER FIAP participou do desenvolvimento de uma solução baseada em **Digital Twin**, com foco em criar uma representação digital inteligente de processos e operações em tempo real.
+
+Durante essa jornada, tivemos a chegada de **Maria Eduarda** e **Caio Souza**, que contribuíram significativamente para a evolução do projeto, auxiliando no desenvolvimento técnico, organização da equipe e construção das soluções apresentadas.
+
+Com muito esforço, aprendizado e colaboração entre software, hardware e inovação, conquistamos o **3º lugar** na competição, consolidando ainda mais a trajetória da equipe dentro dos desafios acadêmicos da FIAP.
+
+---
+
+## 2024: **2º Lugar na Competição com Visão Computacional** 🤖🥈
+
+Em 2024, com a entrada de **Lucas Gabriel** no desenvolvimento do back-end e na implementação de um modelo avançado de **Visão Computacional**, nossa equipe conquistou o **2º lugar** na competição.
+
+A proposta envolveu a criação de um sistema inteligente capaz de realizar tarefas de identificação e classificação de produtos de maneira autônoma, utilizando tecnologias modernas de Inteligência Artificial.
+
+A combinação entre front-end, back-end, visão computacional e a estrutura do braço robótico gerou resultados impressionantes, refletindo toda a dedicação e o esforço da equipe ao longo do projeto.
+
+---
+
+## 2023: **Melhorias para a ShelBox** 📦
+
+Em 2023, o desafio foi desenvolver melhorias para a **ShelBox**, empresa focada em soluções para o mercado de e-commerce.
+
+Nossa equipe contou com a participação de **Isabella Diaz**, responsável pelo desenvolvimento da interface front-end, criando uma experiência moderna, intuitiva e eficiente para os usuários.
+
+O projeto destacou-se pela inovação implementada e pelo comprometimento da equipe em entregar soluções de alta qualidade.
+
+---
+
+# 🎓 Nossa Missão
+
+A SKYER FIAP busca promover a **inovação**, a **colaboração** e o **desenvolvimento de soluções tecnológicas** capazes de atender demandas reais do mercado.
+
+Estamos constantemente aprimorando nossas habilidades técnicas e interpessoais para gerar impacto positivo através da tecnologia.
+
+---
+
+# 🌟 Nossa Equipe
+
+- **Felipe Assis** – Hardware Engineer  
+- **Isabella Diaz** – Hardware Engineer  
+- **Maria Silva** – Front-End Development  
+- **Pedro Lopes** – Back-End Development  
+
+---
+
+# 💡 Nosso Propósito
+
+Levar inovação a sério.  
+Testar nossos limites.  
+Trabalhar como um time.  
+E acima de tudo, usar a tecnologia como ponte para o futuro.
