@@ -13,19 +13,24 @@ Desde 2023, participamos ativamente das competições internas da FIAP, realizad
 
 # 📅 Projetos Destacados
 
-## 2026: **Digital Twin para Operações Industriais e Portuárias** ⚙️🌐
+## 2026: **Monitoramento Inteligente da Qualidade da Madeira** 🌲📊
 
-Em 2026, iniciamos um novo desafio focado no desenvolvimento de um ecossistema inteligente baseado em **Digital Twin**, integrando monitoramento em tempo real, automação e análise de dados para operações industriais e portuárias.
+Em 2026, a SKYER FIAP iniciou um novo desafio voltado para o desenvolvimento de uma solução inteligente para o **monitoramento da qualidade da madeira** no processo industrial de produção de celulose.
 
-O projeto envolve tecnologias como:
-- Visão Computacional
-- IoT e sensores industriais
-- APIs para transmissão de vídeo em tempo real
+O projeto tem como objetivo aumentar a previsibilidade e eficiência operacional através da análise de características da madeira, como:
+- Densidade
+- Tortuosidade
+- Quantidade de casca
+- Qualidade do material recebido
+
+A solução envolve o uso de:
 - Inteligência Artificial
+- Ciência de Dados
+- Sensores e automação
 - Dashboards operacionais
-- Integração entre hardware e software
+- Processamento e análise de dados industriais
 
-Neste ciclo, tivemos a entrada de **Pedro Lopes** e **Felipe Assis**, que passaram a contribuir diretamente no desenvolvimento da arquitetura do sistema, hardware e integração técnica do projeto, fortalecendo ainda mais a equipe para os novos desafios.
+Neste ciclo, tivemos a entrada de **Pedro Lopes** e **Felipe Assis**, que passaram a contribuir diretamente no desenvolvimento técnico do projeto, fortalecendo a integração entre software, hardware e análise de dados para a construção da solução. E a saída de **Lucas  Gabriel**
 
 ---
 
